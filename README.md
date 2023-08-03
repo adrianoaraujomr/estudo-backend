@@ -11,6 +11,7 @@ Criar usando diferentes linguagens/frameworks APIs REST.
 # Projetos devem ter
 
 - Lintter / Formatter
+- Aruqivo de envs
 - Docker da aplicação
 - Docker compose de dependências
 
